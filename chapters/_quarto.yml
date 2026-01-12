@@ -10,6 +10,7 @@ book:
     collapse-level: 1
   chapters:
     - index.qmd
+    - 0_computacion.md
     - 1_ecosistema.md
   open-graph: true
 
